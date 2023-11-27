@@ -1,3 +1,5 @@
+
+
 // toggle navbar
 let menuIcon = document.querySelector('#menu-icon');
 let navBar = document.querySelector('.navbar');
@@ -81,3 +83,4 @@ async function handleSubmit(event) {
 }
 
 form.addEventListener("submit", handleSubmit);
+
